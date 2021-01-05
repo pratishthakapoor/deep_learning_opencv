@@ -1,0 +1,7 @@
+Steps for creation of Document Scanner using python opencv module
+
+Step1: Detect the edges
+
+Step2: Use the edges in the image to find the contour (outline) representing thepiece of paper being scanned
+
+Step3: Apply a perspective transform to obtain the top-down view of the document
